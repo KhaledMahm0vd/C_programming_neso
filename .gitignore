@@ -1,6 +1,6 @@
 # Ignore all
 *
-
+*.~lock.*
 # Unignore all with extensions
 !*.*
 
