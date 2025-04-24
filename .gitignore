@@ -2,7 +2,7 @@
 *
 # Unignore all with extensions
 !*.c
-!*.odt
+!*.md
 # Unignore all dirs
 !*/
 
